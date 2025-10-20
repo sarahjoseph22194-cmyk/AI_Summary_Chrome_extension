@@ -1,4 +1,4 @@
-# AI_Sunnary_Chrome_extension
+# AI_Summary_Chrome_extension
 it's an chrome extension that summarizes text
 ##  This project is a chrome extension called AI Summarizer , you can install it through chrome extensions by searching the name
 
