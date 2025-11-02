@@ -1,0 +1,45 @@
+h1 {
+  background-color : rgb(182, 227, 240)
+}
+
+first {
+  background-color : rgb(196, 182, 240)
+}
+
+first {
+   place-items: center;
+}
+
+mybutton {
+  background-color: #007bff; /* Blue background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Top/bottom 10px, left/right 20px */
+  margin: 0 auto;
+  border: none; /* No border */
+  border-radius: 5px; /* Slightly rounded corners */
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none; /* Remove underline for anchor-based buttons */
+  display: inline-block; /* Allows padding and width/height adjustments */
+}
+
+mybutton:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+mybutton:active {
+  background-color: #004085; /* Even darker blue when active */
+  transform: translateY(0); /* Reset lift */
+  box-shadow: none; /* Remove shadow */
+}
+
+div{
+  width : 75%;
+  height : 75%;
+  float: right
+
+}
